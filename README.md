@@ -1,2 +1,2 @@
 # wx_webserver
-a sample web server
+a simple web server
